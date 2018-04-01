@@ -1,0 +1,5 @@
+2018-04-01 09:58:12,961 [Thread-7:7672] [controller.testController:13] [testController:test1] [ERROR]- Traceback (most recent call last):
+  File "D:\lichen\work\workspace\github\py\django1\django1\controller\testController.py", line 11, in test1
+    z = x / y
+ZeroDivisionError: division by zero
+
